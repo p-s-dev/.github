@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=p-s-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=p-s-dev&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&v=1758808434815)](https://git.io/streak-stats)
 
 </div>
 
