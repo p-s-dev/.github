@@ -39,14 +39,6 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 </div>
 
-## 🔥 GitHub Streak & Activity
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=p-s-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
