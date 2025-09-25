@@ -1,5 +1,11 @@
 # 👋 Hi there! I'm Patrick Southcott
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Gen+AI;Software+Engineer+with+20%2B+years+experience;Building+intelligent+systems+that+matter)](https://git.io/typing-svg)
+
+</div>
+
 🚀 **Machine Learning | Deep Learning | Gen AI**
 
 Welcome to my GitHub! I'm passionate about crafting intelligent systems that bridge the gap between theoretical concepts and real-world applications. My journey encompasses developing solutions in computer vision, traditional ml and deep learning & llm based applications.
@@ -49,11 +55,34 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 </div>
 
+## 📊 Contribution Activity
+
+<div align="center">
+  
+[![Patrick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=p-s-dev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ## 👀 Profile Views
 
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=p-s-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
