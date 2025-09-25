@@ -25,7 +25,37 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 ## 📈 GitHub Stats
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-s-dev&show_icons=true&theme=radical)
+<div align="center">
+  
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-s-dev&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p-s-dev&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🔥 GitHub Streak & Activity
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=p-s-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=p-s-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=p-s-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
