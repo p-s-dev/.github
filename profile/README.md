@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm passionate about crafting intelligent systems that bri
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=p-s-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=p-s-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
